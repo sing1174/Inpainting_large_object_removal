@@ -16,16 +16,6 @@ The algorithm removes unwanted objects from images and reconstructs the backgrou
 
 ---
 
-## Repository Structure
-
-├── Inpainting_code.ipynb # Main implementation
-├── Object_removal_by_inpainting_Manpreet_Singh.pdf # Project report
-├── /images # Sample input images
-├── /masks # Corresponding masks
-└── README.md # Documentation
-
----
-
 ## How to Run
 
 Modify the image and mask paths in the notebook if using custom data.
