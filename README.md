@@ -1,11 +1,6 @@
-### Region filling and Object removal by Inpainting: 
-This was a paper implementation project which was part of my Image Processing coursework. Please refer to this [report](https://github.com/1998anwesha/Inpainting_large_object_removal/blob/main/Object_removal_by_inpainting_Manpreet_Singh.pdf) for an overview of the project.
-All the functions used are present in the Inpainting_code.ipynb file. The images and masks used are all present in main folder for ease of access. You can simply run the .ipynb file to check the results.
-
-
 # Region Filling and Object Removal by Inpainting
 
-This project implements the **Exemplar-Based Image Inpainting** algorithm proposed by Criminisi et al. (2004) for region filling and object removal in digital images. The work was completed as part of an **Image Processing coursework** project.
+This project implements the **Exemplar-Based Image Inpainting** algorithm proposed by Criminisi et al. (2004) for region filling and object removal in digital images. The work was completed as part of an **Image Processing coursework** project. Please refer to this [report](https://github.com/1998anwesha/Inpainting_large_object_removal/blob/main/Object_removal_by_inpainting_Manpreet_Singh.pdf) for an overview of the project.
 
 ---
 
@@ -42,10 +37,10 @@ Copy code
    cd my-history
 Open and execute the notebook:
 
-bash
-Copy code
 jupyter notebook Inpainting_code.ipynb
 Modify the image and mask paths in the notebook if using custom data.
+
+All the functions used are present in the Inpainting_code.ipynb file. The images and masks used are all present in main folder for ease of access. You can simply run the .ipynb file to check the results.
 
 Reference
 Criminisi, A., Pérez, P., & Toyama, K. (2004). Region Filling and Object Removal by Exemplar-Based Image Inpainting.
