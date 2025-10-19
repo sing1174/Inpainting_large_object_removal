@@ -1,6 +1,6 @@
 # Region Filling and Object Removal by Inpainting
 
-This project implements the **Exemplar-Based Image Inpainting** algorithm proposed by Criminisi et al. (2004) for region filling and object removal in digital images. The work was completed as part of an **Image Processing coursework** project. Please refer to this [report](https://github.com/1998anwesha/Inpainting_large_object_removal/blob/main/Object_removal_by_inpainting_Manpreet_Singh.pdf) for an overview of the project.
+This project implements the **Exemplar-Based Image Inpainting** algorithm proposed by Criminisi et al. (2004) for region filling and object removal in digital images. The work was completed as part of an **Image Processing coursework** project. Please refer to this [report](https://github.com/) for an overview of the project.
 
 ---
 
