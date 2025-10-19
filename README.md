@@ -19,27 +19,16 @@ The algorithm removes unwanted objects from images and reconstructs the backgrou
 ## Repository Structure
 
 ├── Inpainting_code.ipynb # Main implementation
-├── Object_removal_by_inpainting_Report.pdf # Project report
+├── Object_removal_by_inpainting_Manpreet_Singh.pdf # Project report
 ├── /images # Sample input images
 ├── /masks # Corresponding masks
 └── README.md # Documentation
-
-yaml
-Copy code
 
 ---
 
 ## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sing1174/my-history.git
-   cd my-history
-Open and execute the notebook:
-
-jupyter notebook Inpainting_code.ipynb
 Modify the image and mask paths in the notebook if using custom data.
-
 All the functions used are present in the Inpainting_code.ipynb file. The images and masks used are all present in main folder for ease of access. You can simply run the .ipynb file to check the results.
 
 Reference
